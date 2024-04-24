@@ -6,10 +6,24 @@
 ---
 
 ### Projeto idealizado e desenvolvido por:
-+ Jhenyffer Oliveira
-+ Lisnane Oliveira
-+ Rodrigo Udenal
-+ Victor Lemos
+Jhenyffer Oliveira • Lisnane Oliveira • Rodrigo Udenal • Victor Lemos
+
+---
+
+## Sumário
+- [Hipóteses e Validação das Hipóteses](#hipóteses-e-validação-das-hipóteses) 🧪
+  - [1. Qual é a qualidade e a diversidade dos dados?](#1-qual-é-a-qualidade-e-a-diversidade-dos-dados) 📊
+  - [2. Como os indicadores de diversidade aparecem na coleta de dados?](#2-como-os-indicadores-de-diversidade-aparecem-na-coleta-de-dados) 📝
+  - [3. Como está a presença de diferentes grupos demográficos em cargos de liderança?](#3-como-está-a-presença-de-diferentes-grupos-demográficos-em-cargos-de-liderança) 👥
+- [Propostas de Soluções](#propostas-de-soluções) 💡
+  - [Análise da Questão 1](#análise-da-questão-1) 📈
+  - [Análise da Questão 2](#análise-da-questão-2) 📋
+  - [Análise da Questão 3](#análise-da-questão-3) 🔍
+- [Proposta de Solução Extra](#proposta-de-solução-extra) 🌟
+- [Organização do Grupo](#organização-do-grupo) 🤝
+- [Ferramentas utilizadas](#ferramentas-utilizadas) 🔧
+
+
 
 ---
 
@@ -29,28 +43,13 @@ Assim, abordaremos os principais obstáculos identificados nos dados fornecidos 
 
 --- 
 
-# Organização
-
-Para organização, utilizamos algumas ferramentas:
-- Google Drive, para concentração da documentação, imagens, entre outros;
-- Documentos Google, para estruturar as etapas de um plano de ação, levantamento de hipóteses, comprovação ou negação das hipóteses, insights, pesquisas de referências externas e o direcionamento da proposta;
-- Monday, para dividir tarefas, estabelecer prazos, ajustar notas e comentários sobre as atividades.
-
-#### Entre essas ferramentas, vale destacar o Roteiro criado no Documentos Google, disponível [aqui](https://docs.google.com/document/d/1FiSdodF9yHHHeaZOQbZjmg-30HWEZoJMiIvCgcnEMPA/edit?usp=sharing), e o Monday, disponível abaixo.
-
-![Monday1](readme/Monday1.png)
-![Monday1](readme/Monday2.png)
-![Monday1](readme/Monday3.png)
-
----
-
 # Análise Profunda
 
 Investimos tempo e esforço para observar minuciosamente os dados fornecidos pela Corp Solutions e levantar hipóteses. Essa fase foi crucial para compreender a situação atual e estabelecer uma base sólida para a tomada de decisão.
 
 ---
 
-# Hipóteses
+# Hipóteses e Validação das Hipóteses 
 
 Com algumas visualizações e após muita pesquisa, elaboramos 3 hipóteses que podem evidenciar prováveis razões pelas quais diversidade e inclusão ainda são um desafio para a Corp Solutions.
 
@@ -61,7 +60,7 @@ Ao tratar os dados, observamos pouca qualidade e baixa diversidade nos dados rec
 Os principais indicadores de diversidade dividem-se em 4 pilares: gênero, etnia, escolaridade e idade. Cada um desses indicadores, contém problemáticas, descritas abaixo.
 
 
-## • Gênero:
+## • Gêneros:
 
 ![distribuição_demográfica_por_gênero](graficos/distribuição_demográfica_por_gênero.png)![distribuição_de_colaboradores_por_etnia_e_gênero](graficos/distribuição_de_colaboradores_por_etnia_e_gênero.png)
 > Baixa quantidade de mulheres diversas na empresa.
@@ -70,7 +69,7 @@ Os principais indicadores de diversidade dividem-se em 4 pilares: gênero, etnia
 > Baixa representação de mulheres nos cargos de liderança.
 
 
-## • Etnia:
+## • Etnias:
 
 ![colaboradores_por_etnia](graficos/colaboradores_por_etnia.png)
 > Pouca contratação de grupos étnicos minoritários (pessoas pretas, indígenas e amarelas).
@@ -90,17 +89,13 @@ Os principais indicadores de diversidade dividem-se em 4 pilares: gênero, etnia
 > A maioria dos funcionários com perfil étnico-racial minoritário possuem formação superior.
 
 
-## • Idade:
+## • Idades:
 
 ![distribuição_de_idade](graficos/distribuição_de_idade.png)
 > As contratações se concentram em pessoas mais jovens.
 
 ![visualização_dos_clusters_com_valores_reais](graficos/visualização_dos_clusters_com_valores_reais.png)
 > A taxa de retenção é baixa, por volta de 5 anos.
-
----
-
-# Validação das Hipóteses 
 
 Com base nessas visualizações, conclui-se que há pouca contratação de grupos étnicos minoritários (mulheres, pessoas pretas, indígenas e amarelas).
 
@@ -142,8 +137,9 @@ Por fim, com base nas informações que reunimos durante as etapas anteriores e 
 
 Essas soluções foram projetadas especificamente para abordar os desafios de diversidade e inclusão identificados na empresa, fornecendo assim um caminho claro e acionável para promover a equidade e a inclusão.
 
+---
 
-# Questão 1
+# Análise da Questão 1
 
 > Como proposta de solução, para resolver as problemáticas levantadas na primeira pergunta, sugerimos a implementação de 3 ações conjuntas:
 
@@ -163,9 +159,9 @@ Investimento em palestras e outras formas de educação nas empresas acerca de g
 + Aumento da retenção de talentos diversificados.
 + Estímulo à inovação e criatividade dentro da empresa.
 
+---
 
-
-# Questão 2
+# Análise da Questão 2
 
 > Como proposta de solução, para resolver as problemáticas levantadas na segunda pergunta, sugerimos a implementação de 3 ações conjuntas:
 
@@ -197,7 +193,9 @@ Utilizar no uma coluna de ID único para identificação ao invés de uma coluna
 + Melhor embasamento para tomadas de decisão relacionadas à diversidade e inclusão.
 + Promoção de uma cultura mais inclusiva e equitativa.
 
-# Questão 3
+---
+
+# Análise da Questão 3
 
 > Como proposta de solução, para resolver as problemáticas levantadas na terceira pergunta, sugerimos a implementação de 3 ações conjuntas:
 
@@ -210,6 +208,7 @@ Implementar políticas e programas que garantam oportunidades equitativas de pro
 ## • Monitoramento e Avaliação
 Realizar monitoramento regular do progresso dos programas de formação e progressão de carreira para garantir sua eficácia e fazer ajustes conforme necessário.
 
+---
 
 # Proposta de Solução Extra 
 
@@ -226,6 +225,21 @@ Este levantamento foi realizado dentro de eventos com público plural ou com ini
 + Redução das disparidades na progressão de carreira.
 + Promoção da equidade e inclusão dentro da empresa.
 + Contribuição para um ambiente de trabalho mais diversificado e inovador.
+
+---
+
+# Organização do Grupo
+
+Para organização, utilizamos algumas ferramentas:
+- Google Drive, para concentração da documentação, imagens, entre outros;
+- Documentos Google, para estruturar as etapas de um plano de ação, levantamento de hipóteses, comprovação ou negação das hipóteses, insights, pesquisas de referências externas e o direcionamento da proposta;
+- Monday, para dividir tarefas, estabelecer prazos, ajustar notas e comentários sobre as atividades.
+
+#### Entre essas ferramentas, vale destacar o Roteiro criado no Documentos Google, disponível [aqui](https://docs.google.com/document/d/1FiSdodF9yHHHeaZOQbZjmg-30HWEZoJMiIvCgcnEMPA/edit?usp=sharing), e o Monday, disponível abaixo.
+
+![Monday1](readme/Monday1.png)
+![Monday1](readme/Monday2.png)
+![Monday1](readme/Monday3.png)
 
 ---
 
