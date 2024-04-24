@@ -11,23 +11,24 @@ Jhenyffer Oliveira • Lisnane Oliveira • Rodrigo Udenal • Victor Lemos
 ---
 
 ## Sumário
-- [Hipóteses e Validação das Hipóteses](#hipóteses-e-validação-das-hipóteses) 🧪
-  - [1. Qual é a qualidade e a diversidade dos dados?](#1-qual-é-a-qualidade-e-a-diversidade-dos-dados) 📊
-  - [2. Como os indicadores de diversidade aparecem na coleta de dados?](#2-como-os-indicadores-de-diversidade-aparecem-na-coleta-de-dados) 📝
-  - [3. Como está a presença de diferentes grupos demográficos em cargos de liderança?](#3-como-está-a-presença-de-diferentes-grupos-demográficos-em-cargos-de-liderança) 👥
-- [Propostas de Soluções](#propostas-de-soluções) 💡
-  - [Análise da Questão 1](#análise-da-questão-1) 📈
-  - [Análise da Questão 2](#análise-da-questão-2) 📋
-  - [Análise da Questão 3](#análise-da-questão-3) 🔍
-- [Proposta de Solução Extra](#proposta-de-solução-extra) 🌟
-- [Organização do Grupo](#organização-do-grupo) 🤝
-- [Ferramentas utilizadas](#ferramentas-utilizadas) 🔧
-
-
+- 🌐 [Quem somos?](#quem-somos) 
+- 💼 [Proposta](#proposta) 
+- 🔬 [Análise Profunda](#análise-profunda)
+- 🔎 [Hipóteses e Validação das Hipóteses](#hipóteses-e-validação-das-hipóteses) 
+  - 🗃️ [1. Qual é a qualidade e a diversidade dos dados?](#1-qual-é-a-qualidade-e-a-diversidade-dos-dados) 
+  - 📝 [2. Como os indicadores de diversidade aparecem na coleta de dados?](#2-como-os-indicadores-de-diversidade-aparecem-na-coleta-de-dados) 
+  - 👥 [3. Como está a presença de diferentes grupos demográficos em cargos de liderança?](#3-como-está-a-presença-de-diferentes-grupos-demográficos-em-cargos-de-liderança) 
+- 💡 [Propostas de Soluções](#propostas-de-soluções) 
+  - 📈 [Análise da Questão 1](#análise-da-questão-1) 
+  - 📋 [Análise da Questão 2](#análise-da-questão-2) 
+  - 📊 [Análise da Questão 3](#análise-da-questão-3) 
+- 🌟 [Proposta de Solução Extra](#proposta-de-solução-extra) 
+- 🤝 [Organização do Grupo](#organização-do-grupo) 
+- 🛠️ [Ferramentas utilizadas](#ferramentas-utilizadas) 
 
 ---
 
-# Quem somos?
+# 🌐 Quem somos?
 
 A **InclusiData Alchemy** se dedica a trazer soluções inovadoras para promover a diversidade e inclusão nas organizações.
 
@@ -35,7 +36,7 @@ Transformamos dados em insights e estratégias.  Utilizando análise de dados, i
 
 ---
 
-# Proposta 
+# 💼 Proposta 
 
 Diante da necessidade de promover a **diversidade** e a **inclusão** em seu ambiente de trabalho, a **Corp Solutions** convida a **InclusiData Alchemy** para desenvolver soluções que atendam essa necessidade.
 
@@ -43,17 +44,17 @@ Assim, abordaremos os principais obstáculos identificados nos dados fornecidos 
 
 --- 
 
-# Análise Profunda
+# 🔬 Análise Profunda
 
 Investimos tempo e esforço para observar minuciosamente os dados fornecidos pela Corp Solutions e levantar hipóteses. Essa fase foi crucial para compreender a situação atual e estabelecer uma base sólida para a tomada de decisão.
 
 ---
 
-# Hipóteses e Validação das Hipóteses 
+# 🔎 Hipóteses e Validação das Hipóteses 
 
 Com algumas visualizações e após muita pesquisa, elaboramos 3 hipóteses que podem evidenciar prováveis razões pelas quais diversidade e inclusão ainda são um desafio para a Corp Solutions.
 
-## 1. Qual é a qualidade e a diversidade dos dados? 
+## 🗃️ 1. Qual é a qualidade e a diversidade dos dados? 
 
 Ao tratar os dados, observamos pouca qualidade e baixa diversidade nos dados recebidos. 
 
@@ -107,7 +108,7 @@ Nesse momento, encontra-se a necessidade da inclusão de mais perfis de grupos s
 
 ---
 
-## 2. Como os indicadores de diversidade aparecem na coleta de dados?
+## 📝 2. Como os indicadores de diversidade aparecem na coleta de dados?
 
 Atualmente, a empresa trabalha com poucos dados de diversidade, apenas etnia e gênero, sendo o último apenas binário, sem abranger os demais.
 
@@ -121,7 +122,7 @@ Em relação ao cuidado com os dados sensíveis (ex.: nome, idade, cargo), ficou
 
 ---
 
-## 3. Como está a presença de diferentes grupos demográficos em cargos de liderança?
+## 👥 3. Como está a presença de diferentes grupos demográficos em cargos de liderança?
 
 De acordo com os gráficos apresentados na questão 1, é possível observar que apenas 12,4% das mulheres ocupam cargos de diretoria e 24,4% ocupam cargos de gerência.
 
@@ -131,7 +132,7 @@ De acordo com as análises realizadas, há disparidades significativas na reores
 
 ---
 
-# Propostas de Soluções
+# 💡 Propostas de Soluções
 
 Por fim, com base nas informações que reunimos durante as etapas anteriores e dados colhidos externamente, como os do IBGE, desenvolvemos 4 propostas de solução. 
 
@@ -139,7 +140,7 @@ Essas soluções foram projetadas especificamente para abordar os desafios de di
 
 ---
 
-# Análise da Questão 1
+# 📈 Análise da Questão 1
 
 > Como proposta de solução, para resolver as problemáticas levantadas na primeira pergunta, sugerimos a implementação de 3 ações conjuntas:
 
@@ -161,7 +162,7 @@ Investimento em palestras e outras formas de educação nas empresas acerca de g
 
 ---
 
-# Análise da Questão 2
+# 📋 Análise da Questão 2
 
 > Como proposta de solução, para resolver as problemáticas levantadas na segunda pergunta, sugerimos a implementação de 3 ações conjuntas:
 
@@ -195,7 +196,7 @@ Utilizar no uma coluna de ID único para identificação ao invés de uma coluna
 
 ---
 
-# Análise da Questão 3
+# 📊 Análise da Questão 3
 
 > Como proposta de solução, para resolver as problemáticas levantadas na terceira pergunta, sugerimos a implementação de 3 ações conjuntas:
 
@@ -210,7 +211,7 @@ Realizar monitoramento regular do progresso dos programas de formação e progre
 
 ---
 
-# Proposta de Solução Extra 
+# 🌟 Proposta de Solução Extra 
 
 ## • Aquisição de Novos Talentos Através de Stands em Eventos de Tecnologia 2024/2025
 
@@ -228,7 +229,7 @@ Este levantamento foi realizado dentro de eventos com público plural ou com ini
 
 ---
 
-# Organização do Grupo
+# 🤝 Organização do Grupo
 
 Para organização, utilizamos algumas ferramentas:
 - Google Drive, para concentração da documentação, imagens, entre outros;
@@ -243,7 +244,7 @@ Para organização, utilizamos algumas ferramentas:
 
 ---
 
-# Ferramentas utilizadas
+# 🛠️ Ferramentas utilizadas
 
 | Python | Pandas | Matplotlib | Seaborn | Folium | Git | Monday |
 | ------ | ------ | ---------- | ------- | ------ | --- | ------ |
