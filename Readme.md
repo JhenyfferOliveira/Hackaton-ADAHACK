@@ -5,8 +5,8 @@
 
 ---
 
-### Projeto idealizado e desenvolvido por:
-Jhenyffer Oliveira • Lisnane Oliveira • Rodrigo Udenal • Victor Lemos
+<h4 align="center"> Projeto idealizado e desenvolvido por: </h4>
+<h5 align="center"> Jhenyffer Oliveira • Lisnane Oliveira • Rodrigo Udenal • Victor Lemos</h5>
 
 ---
 
@@ -64,39 +64,47 @@ Os principais indicadores de diversidade dividem-se em 4 pilares: gênero, etnia
 ## • Gêneros:
 
 ![distribuição_demográfica_por_gênero](graficos/distribuição_demográfica_por_gênero.png)![distribuição_de_colaboradores_por_etnia_e_gênero](graficos/distribuição_de_colaboradores_por_etnia_e_gênero.png)
-> Baixa quantidade de mulheres diversas na empresa.
+
+**Baixa quantidade de mulheres diversas na empresa.**
 
 ![distribuição_por_gênero_entre_diretores](graficos/distribuição_por_gênero_entre_diretores.png)
-> Baixa representação de mulheres nos cargos de liderança.
+
+**Baixa representação de mulheres nos cargos de liderança.**
 
 
 ## • Etnias:
 
 ![colaboradores_por_etnia](graficos/colaboradores_por_etnia.png)
-> Pouca contratação de grupos étnicos minoritários (pessoas pretas, indígenas e amarelas).
 
-> Observamos que de acordo com o censo do IBGE de 2022  a população do Brasil é composta por 43,72% de pessoas brancas, 10,23% pretas, 45,62% pardas, 0,42% amarelas e 0,61% indígenas.
+**Pouca contratação de grupos étnicos minoritários (pessoas pretas, indígenas e amarelas).**
+
+**Observamos que de acordo com o censo do IBGE de 2022  a população do Brasil é composta por 43,72% de pessoas brancas, 10,23% pretas, 45,62% pardas, 0,42% amarelas e 0,61% indígenas.**
 
 
 ![distribuição_de_colaboradores_por_etnia_(gerente)](graficos/distribuição_de_colaboradores_por_etnia_(gerente).png)![distribuição_de_colaboradores_por_etnia_(diretor)](graficos/distribuição_de_colaboradores_por_etnia_(diretor).png)
-> Baixa concentração de grupos étnicos minoritários em cargos de liderança
+
+**Baixa concentração de grupos étnicos minoritários em cargos de liderança.**
 
 
 ## • Escolaridade:
 ![número_de_colaboradores_por_senioridade_e_formação](graficos/número_de_colaboradores_por_senioridade_e_formação.png)
-> Graduação é um pré-requisito comum de contratação.
+
+**Graduação é um pré-requisito comum de contratação.**
 
 ![relação_entre_etnia_e_formação](graficos/relação_entre_etnia_e_formação.png)
-> A maioria dos funcionários com perfil étnico-racial minoritário possuem formação superior.
+
+**A maioria dos funcionários com perfil étnico-racial minoritário possuem formação superior.**
 
 
 ## • Idades:
 
 ![distribuição_de_idade](graficos/distribuição_de_idade.png)
-> As contratações se concentram em pessoas mais jovens.
+
+**As contratações se concentram em pessoas mais jovens.**
 
 ![visualização_dos_clusters_com_valores_reais](graficos/visualização_dos_clusters_com_valores_reais.png)
-> A taxa de retenção é baixa, por volta de 5 anos.
+
+**A taxa de retenção é baixa, por volta de 5 anos.**
 
 Com base nessas visualizações, conclui-se que há pouca contratação de grupos étnicos minoritários (mulheres, pessoas pretas, indígenas e amarelas).
 
@@ -113,12 +121,14 @@ Nesse momento, encontra-se a necessidade da inclusão de mais perfis de grupos s
 Atualmente, a empresa trabalha com poucos dados de diversidade, apenas etnia e gênero, sendo o último apenas binário, sem abranger os demais.
 
 ![distribuição_de_gênero_por_departamento](graficos/distribuição_de_gênero_por_departamento.png)
-> Distribuição de gênero por departamento demonstra pouca presença feminina.
+
+**Distribuição de gênero por departamento demonstra pouca presença feminina.**
 
 Em relação ao cuidado com os dados sensíveis (ex.: nome, idade, cargo), ficou evidente que a empresa não possui uma solução. Para trabalharmos os dados com segurança, incluímos uma coluna de ID hexadecimais de quatro dígitos e removemos a coluna de nomes e endereços.
 
 ![tabela_ids](graficos/tabela_ids.jpg)
-> Tabela contendo ID no lugar do nome.
+
+**Tabela contendo ID no lugar do nome.**
 
 ---
 
@@ -142,7 +152,7 @@ Essas soluções foram projetadas especificamente para abordar os desafios de di
 
 # 📈 Análise da Questão 1
 
-> Como proposta de solução, para resolver as problemáticas levantadas na primeira pergunta, sugerimos a implementação de 3 ações conjuntas:
+**Como proposta de solução, para resolver as problemáticas levantadas na primeira pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
 ## • Clube de Benefícios 
 Implementação de um programa de mentoria reversa, na qual funcionários de grupos minoritários são emparelhados com funcionários de grupos majoritários para troca de experiências e aprendizado mútuo. 
@@ -153,7 +163,7 @@ Criação de espaços para que os colaboradores compartilhem experiências e per
 ## • Promoção de Palestras
 Investimento em palestras e outras formas de educação nas empresas acerca de gênero, sexualidade etc.
 
-> Com essas ações, os benefícios esperados são:
+**Com essas ações, os benefícios esperados são:**
 
 + Fomento da compreensão e empatia entre funcionários de diferentes origens.
 + Desenvolvimento de uma liderança diversificada e inclusiva.
@@ -164,7 +174,7 @@ Investimento em palestras e outras formas de educação nas empresas acerca de g
 
 # 📋 Análise da Questão 2
 
-> Como proposta de solução, para resolver as problemáticas levantadas na segunda pergunta, sugerimos a implementação de 3 ações conjuntas:
+**Como proposta de solução, para resolver as problemáticas levantadas na segunda pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
 
 ## • Coleta de Dados Aprimorada
@@ -173,7 +183,8 @@ Implementar formulários mais abrangentes para coleta de dados demográficos, in
 A InclusiData Alchemy fez uma proposta de [formulário](https://forms.gle/TmiCJoefwcU6oXEG8) visando mapear mais características de diversidade.
 
 ![FormularioDiversidade](graficos/FormularioDiversidade.png)
-> Exemplo de formulário com perguntas aprimoradas.
+
+**Exemplo de formulário com perguntas aprimoradas.**
 
 ## • Melhoria na Visualização de Dados
 Aprimorar a plotagem de gráficos para uma visualização mais detalhada e abrangente dos dados de diversidade.
@@ -187,7 +198,7 @@ Garantir que os dados de diversidade coletados sejam considerados integralmente 
 ## • Garantia da Privacidade dos Dados
 Utilizar no uma coluna de ID único para identificação ao invés de uma coluna com o nome dos colaboradores no armazenamento dos dados de diversidade.
 
-> Com essas ações, os benefícios esperados são:
+**Com essas ações, os benefícios esperados são:**
 
 + Coleta de dados mais abrangente e representativa.
 + Melhoria na compreensão dos padrões de diversidade.
@@ -198,7 +209,7 @@ Utilizar no uma coluna de ID único para identificação ao invés de uma coluna
 
 # 📊 Análise da Questão 3
 
-> Como proposta de solução, para resolver as problemáticas levantadas na terceira pergunta, sugerimos a implementação de 3 ações conjuntas:
+**Como proposta de solução, para resolver as problemáticas levantadas na terceira pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
 ## • Formação Continuada Específica
 Desenvolver programas de formação continuada direcionados a grupos minoritários para promover o acesso à educação e desenvolvimento profissional.
@@ -221,7 +232,7 @@ Esta ação também aumento o alcance da marca Corp Solutions dentro do ecossist
 
 Este levantamento foi realizado dentro de eventos com público plural ou com iniciativas de diversidade e inclusão para o público o que está alinhado com os objetivos de aumento na diversidade. 
 
-> Com essa ação, os benefícios esperados são:
+**Com essa ação, os benefícios esperados são:**
 + Maior acesso à educação e desenvolvimento profissional para grupos minoritários.
 + Redução das disparidades na progressão de carreira.
 + Promoção da equidade e inclusão dentro da empresa.
