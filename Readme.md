@@ -26,6 +26,8 @@
 - 🤝 [Organização do Grupo](#organização-do-grupo) 
 - 🛠️ [Ferramentas utilizadas](#ferramentas-utilizadas) 
 
+💻 [BÔNUS: clique aqui e veja o código completo com o tratamento dos dados e plotagens](https://github.com/JhenyfferOliveira/Hackaton-ADAHACK/blob/main/DD-08/codigo.ipynb)
+
 ---
 
 # 🌐 Quem somos?
