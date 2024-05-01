@@ -22,7 +22,7 @@
   - 📈 [Análise da Questão 1](#análise-da-questão-1) 
   - 📋 [Análise da Questão 2](#análise-da-questão-2) 
   - 📊 [Análise da Questão 3](#análise-da-questão-3) 
-- 🌟 [Proposta de Solução Extra](#proposta-de-solução-extra) 
+  - 🌟 [Proposta de Solução Extra](#proposta-de-solução-extra) 
 - 🤝 [Organização do Grupo](#organização-do-grupo) 
 - 🛠️ [Ferramentas utilizadas](#ferramentas-utilizadas) 
 
