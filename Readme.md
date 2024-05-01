@@ -39,7 +39,7 @@ Transformamos dados em insights e estratégias.  Utilizando análise de dados, i
 
 ---
 
-# 💼 Proposta 
+<h1 id="proposta"> 💼 Proposta </h1>
 
 Diante da necessidade de promover a **diversidade** e a **inclusão** em seu ambiente de trabalho, a **Corp Solutions** convida a **InclusiData Alchemy** para desenvolver soluções que atendam essa necessidade.
 
@@ -47,17 +47,17 @@ Assim, abordaremos os principais obstáculos identificados nos dados fornecidos 
 
 --- 
 
-# 🔬 Análise Profunda
+<h1 id="análise-profunda"> 🔬 Análise Profunda </h1>
 
 Investimos tempo e esforço para observar minuciosamente os dados fornecidos pela Corp Solutions e levantar hipóteses. Essa fase foi crucial para compreender a situação atual e estabelecer uma base sólida para a tomada de decisão.
 
 ---
 
-# 🔎 Hipóteses e Validação das Hipóteses 
+<h1 id="hipóteses-e-validação-das-hipóteses"> 🔎 Hipóteses e Validação das Hipóteses </h1>
 
 Com algumas visualizações e após muita pesquisa, elaboramos 3 hipóteses que podem evidenciar prováveis razões pelas quais diversidade e inclusão ainda são um desafio para a Corp Solutions.
 
-## 🗃️ 1. Qual é a qualidade e a diversidade dos dados? 
+<h2 id="1-qual-é-a-qualidade-e-a-diversidade-dos-dados"> 🗃️ 1. Qual é a qualidade e a diversidade dos dados? </h2>
 
 Ao tratar os dados, observamos pouca qualidade e baixa diversidade nos dados recebidos. 
 
@@ -119,7 +119,7 @@ Nesse momento, encontra-se a necessidade da inclusão de mais perfis de grupos s
 
 ---
 
-## 📝 2. Como os indicadores de diversidade aparecem na coleta de dados?
+<h2 id="2-como-os-indicadores-de-diversidade-aparecem-na-coleta-de-dados"> 📝 2. Como os indicadores de diversidade aparecem na coleta de dados? </h2>
 
 Atualmente, a empresa trabalha com poucos dados de diversidade, apenas etnia e gênero, sendo o último apenas binário, sem abranger os demais.
 
@@ -135,7 +135,7 @@ Em relação ao cuidado com os dados sensíveis (ex.: nome, idade, cargo), ficou
 
 ---
 
-## 👥 3. Como está a presença de diferentes grupos demográficos em cargos de liderança?
+<h2 id="3-como-está-a-presença-de-diferentes-grupos-demográficos-em-cargos-de-liderança"> 👥 3. Como está a presença de diferentes grupos demográficos em cargos de liderança? </h2>
 
 De acordo com os gráficos apresentados na questão 1, é possível observar que apenas 12,4% das mulheres ocupam cargos de diretoria e 24,4% ocupam cargos de gerência.
 
@@ -145,7 +145,7 @@ De acordo com as análises realizadas, há disparidades significativas na reores
 
 ---
 
-# 💡 Propostas de Soluções
+<h1 id="propostas-de-soluções">💡 Propostas de Soluções </h1>
 
 Por fim, com base nas informações que reunimos durante as etapas anteriores e dados colhidos externamente, como os do IBGE, desenvolvemos 4 propostas de solução. 
 
@@ -153,7 +153,7 @@ Essas soluções foram projetadas especificamente para abordar os desafios de di
 
 ---
 
-# 📈 Análise da Questão 1
+<h1 id="análise-da-questão-1"> 📈 Análise da Questão 1 </h1>
 
 **Como proposta de solução, para resolver as problemáticas levantadas na primeira pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
@@ -175,7 +175,7 @@ Investimento em palestras e outras formas de educação nas empresas acerca de g
 
 ---
 
-# 📋 Análise da Questão 2
+<h1 id="análise-da-questão-2"> 📋 Análise da Questão 2 </h1>
 
 **Como proposta de solução, para resolver as problemáticas levantadas na segunda pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
@@ -210,7 +210,7 @@ Utilizar no uma coluna de ID único para identificação ao invés de uma coluna
 
 ---
 
-# 📊 Análise da Questão 3
+<h1 id="análise-da-questão-3"> 📊 Análise da Questão 3 </h1>
 
 **Como proposta de solução, para resolver as problemáticas levantadas na terceira pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
@@ -243,7 +243,7 @@ Este levantamento foi realizado dentro de eventos com público plural ou com ini
 
 ---
 
-# 🤝 Organização do Grupo
+<h1 id="organização-do-grupo"> 🤝 Organização do Grupo </h1>
 
 Para organização, utilizamos algumas ferramentas:
 - Google Drive, para concentração da documentação, imagens, entre outros;
@@ -258,7 +258,7 @@ Para organização, utilizamos algumas ferramentas:
 
 ---
 
-# 🛠️ Ferramentas utilizadas
+<h1 id="ferramentas-utilizadas"> 🛠️ Ferramentas utilizadas </h1>
 
 | Python | Pandas | Matplotlib | Seaborn | Folium | Git | Monday |
 | ------ | ------ | ---------- | ------- | ------ | --- | ------ |
