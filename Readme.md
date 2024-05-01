@@ -153,7 +153,7 @@ Essas soluções foram projetadas especificamente para abordar os desafios de di
 
 ---
 
-<h1 id="análise-da-questão-1"> 📈 Análise da Questão 1 </h1>
+<h2 id="análise-da-questão-1"> 📈 Análise da Questão 1 </h2>
 
 **Como proposta de solução, para resolver as problemáticas levantadas na primeira pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
@@ -175,7 +175,7 @@ Investimento em palestras e outras formas de educação nas empresas acerca de g
 
 ---
 
-<h1 id="análise-da-questão-2"> 📋 Análise da Questão 2 </h1>
+<h2 id="análise-da-questão-2"> 📋 Análise da Questão 2 </h2>
 
 **Como proposta de solução, para resolver as problemáticas levantadas na segunda pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
@@ -210,7 +210,7 @@ Utilizar no uma coluna de ID único para identificação ao invés de uma coluna
 
 ---
 
-<h1 id="análise-da-questão-3"> 📊 Análise da Questão 3 </h1>
+<h2 id="análise-da-questão-3"> 📊 Análise da Questão 3 </h2>
 
 **Como proposta de solução, para resolver as problemáticas levantadas na terceira pergunta, sugerimos a implementação de 3 ações conjuntas:**
 
@@ -225,7 +225,7 @@ Realizar monitoramento regular do progresso dos programas de formação e progre
 
 ---
 
-# 🌟 Proposta de Solução Extra 
+<h2 id="proposta-de-solução-extra"> 🌟 Proposta de Solução Extra </h2>
 
 ## • Aquisição de Novos Talentos Através de Stands em Eventos de Tecnologia 2024/2025
 
