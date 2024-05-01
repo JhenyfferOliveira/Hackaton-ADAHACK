@@ -30,7 +30,7 @@
 
 ---
 
-# 🌐 Quem somos?
+# Quem somos? 🌐
 
 A **InclusiData Alchemy** se dedica a trazer soluções inovadoras para promover a diversidade e inclusão nas organizações.
 
